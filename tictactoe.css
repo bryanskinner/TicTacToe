@@ -14,3 +14,40 @@ td {
 table {
   margin: auto auto;
 }
+
+#top-left {
+  border-left: none;
+  border-top: none;
+}
+
+#top-middle {
+  border-top: none;
+}
+
+#top-right {
+  border-right: none;
+  border-top: none;
+}
+
+
+#left {
+  border-left: none;
+}
+
+#right {
+  border-right: none;
+}
+
+#bottom-left {
+  border-left: none;
+  border-bottom: none;
+}
+
+#bottom-middle {
+  border-bottom: none;
+}
+
+#bottom-right {
+  border-right: none;
+  border-bottom: none;
+}

@@ -33,39 +33,39 @@ table {
   margin: auto auto;
 }
 
-#top-left {
+.top-left {
   border-left: none;
   border-top: none;
 }
 
-#top-middle {
+.top-middle {
   border-top: none;
 }
 
-#top-right {
+.top-right {
   border-right: none;
   border-top: none;
 }
 
 
-#left {
+.left {
   border-left: none;
 }
 
-#right {
+.right {
   border-right: none;
 }
 
-#bottom-left {
+.bottom-left {
   border-left: none;
   border-bottom: none;
 }
 
-#bottom-middle {
+.bottom-middle {
   border-bottom: none;
 }
 
-#bottom-right {
+.bottom-right {
   border-right: none;
   border-bottom: none;
 }
